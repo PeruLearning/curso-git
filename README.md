@@ -2,8 +2,6 @@
 
 Hola soy tu amigo y docente digital Jonathan Mircha, bienvenid@s a mi curso.
 
-Agregando más contenido al README
+¿Quieres dominar el uso de _Git_? Mira este [enlace](https://jonmircha.com/git).
 
-Este commit es para oficializar nuestra versión **1.0.0**
-
-Cambio de prueba
+![Flujo de Git](git-flow.png)
